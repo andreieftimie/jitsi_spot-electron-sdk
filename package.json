@@ -11,7 +11,7 @@
     "lodash": "4.17.15"
   },
   "devDependencies": {
-    "@jitsi/windows.devices.bluetooth.advertisement": "0.2.0",
+    "@jitsi/windows.devices.bluetooth.advertisement": "github:andreieftimie/jitsi_windows.devices.bluetooth.advertisement",
     "@jitsi/windows.storage.streams": "0.2.0",
     "@types/lodash": "4.14.138",
     "@types/node": "^12.7.5",
@@ -33,7 +33,7 @@
   "main": "./lib/index",
   "name": "@jitsi/spot-electron-sdk",
   "peerDependencies": {
-    "@jitsi/windows.devices.bluetooth.advertisement": "0.2.1",
+    "@jitsi/windows.devices.bluetooth.advertisement": "github:andreieftimie/jitsi_windows.devices.bluetooth.advertisement",
     "@jitsi/windows.storage.streams": "0.2.1"
   },
   "repository": {
